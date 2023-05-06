@@ -1,0 +1,192 @@
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\textToSpeech.exe.config
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\textToSpeech.exe
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\textToSpeech.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\obj\Debug\textToSpeech.csproj.AssemblyReference.cache
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\obj\Debug\textToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\obj\Debug\textToSpeech.Properties.Resources.resources
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\obj\Debug\textToSpeech.csproj.GenerateResource.cache
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\obj\Debug\textToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\obj\Debug\textToSpeech.exe
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\obj\Debug\textToSpeech.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\NAudio.Asio.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\NAudio.Core.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\NAudio.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\NAudio.Midi.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\NAudio.Wasapi.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\NAudio.WinForms.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\NAudio.WinMM.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Security.AccessControl.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\NAudio.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Security.AccessControl.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\obj\Debug\textToSpeech.csproj.CopyComplete
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Api.Gax.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Apis.Auth.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Apis.Core.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Apis.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Cloud.TextToSpeech.V1.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.LongRunning.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Protobuf.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Auth.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Core.Api.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Core.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Net.Client.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Net.Common.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Buffers.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Memory.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.ValueTuple.dll
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Api.Gax.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Api.Gax.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Apis.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Apis.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Apis.Auth.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Apis.Core.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Apis.Core.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Cloud.TextToSpeech.V1.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Cloud.TextToSpeech.V1.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.LongRunning.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.LongRunning.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Protobuf.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Google.Protobuf.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Auth.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Auth.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Core.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Core.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Core.Api.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Net.Client.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Net.Client.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Net.Common.pdb
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Grpc.Net.Common.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Buffers.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Memory.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\bin\Debug\System.ValueTuple.xml
+C:\Users\tioma\source\repos\textToSpeech\textToSpeech\obj\Debug\textToSpeech.MainForm.resources
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\textToSpeech.exe.config
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\textToSpeech.exe
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\textToSpeech.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Api.CommonProtos.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Api.Gax.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Apis.Auth.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Apis.Core.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Apis.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Cloud.TextToSpeech.V1.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.LongRunning.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Protobuf.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Auth.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Core.Api.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Core.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Net.Client.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Net.Common.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\NAudio.Asio.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\NAudio.Core.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\NAudio.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\NAudio.Midi.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\NAudio.Wasapi.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\NAudio.WinForms.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\NAudio.WinMM.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Buffers.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Memory.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Numerics.Vectors.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Security.AccessControl.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Security.Principal.Windows.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.ValueTuple.dll
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Api.CommonProtos.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Api.Gax.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Api.Gax.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Apis.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Apis.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Apis.Auth.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Apis.Auth.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Apis.Core.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Apis.Core.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Cloud.TextToSpeech.V1.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Cloud.TextToSpeech.V1.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.LongRunning.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.LongRunning.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Protobuf.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Google.Protobuf.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Auth.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Auth.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Core.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Core.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Core.Api.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Core.Api.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Net.Client.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Net.Client.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Net.Common.pdb
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Grpc.Net.Common.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\NAudio.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\Newtonsoft.Json.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Buffers.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Memory.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Numerics.Vectors.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Security.AccessControl.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Security.Principal.Windows.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\bin\Debug\System.ValueTuple.xml
+C:\Program Files (x86)\textToSpeech\textToSpeech\obj\Debug\textToSpeech.csproj.AssemblyReference.cache
+C:\Program Files (x86)\textToSpeech\textToSpeech\obj\Debug\textToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Program Files (x86)\textToSpeech\textToSpeech\obj\Debug\textToSpeech.MainForm.resources
+C:\Program Files (x86)\textToSpeech\textToSpeech\obj\Debug\textToSpeech.Properties.Resources.resources
+C:\Program Files (x86)\textToSpeech\textToSpeech\obj\Debug\textToSpeech.csproj.GenerateResource.cache
+C:\Program Files (x86)\textToSpeech\textToSpeech\obj\Debug\textToSpeech.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\textToSpeech\textToSpeech\obj\Debug\textToSpeech.csproj.CopyComplete
+C:\Program Files (x86)\textToSpeech\textToSpeech\obj\Debug\textToSpeech.exe
+C:\Program Files (x86)\textToSpeech\textToSpeech\obj\Debug\textToSpeech.pdb
